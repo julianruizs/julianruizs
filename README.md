@@ -10,7 +10,7 @@ I have experience in **IoT** development and working with embedded systems and d
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 
 # Find me in the web
-- [Website](julianruizs.com "Website")
+- [Website](https://www.julianruizs.com/ "Website")
 - [Linkedin](https://www.linkedin.com/in/julianruizs/ "Linkedin")
 - [Twitter](https://twitter.com/julian_ruizs "Twitter")
 - [Instagram](instagram.com/julian.ruizs "Instagram")
