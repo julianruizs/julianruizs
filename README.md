@@ -1,4 +1,4 @@
-##Hi i'm Julian Ruiz 👋
+#Hi i'm Julian Ruiz 👋
 ![](https://lh3.googleusercontent.com/MCQExx28mZWZVt0TuIUd5lZT9XE0K8AzZVBQRG0MoAjBuNKB7HwxWR4ABJyBmUo9NYOibpRT9jjvw6tzvDFYcCggaGN-facTPrsRgKs8roUBDjjsEfNK2M5kLmQfOpTBqNBlrw_tDQ=w2400)
 
 # About me 
