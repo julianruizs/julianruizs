@@ -1,5 +1,5 @@
 # Hi i'm Julian Ruiz 👋
-![](https://lh3.googleusercontent.com/7TgOXIvgvuFwuL0Pet3FPq0kjwfwXLXXbLdTxj2laKe11uSNoTZpWypBgOIjFGukUrn3YkzMY9ZxWQA40Io7KNi-A-zCg7Ew5RQxGqPQRWUOXcdk-LaBuueTWKEBIGLOpnajSsw3lg=w2400)
+![](https://lh3.googleusercontent.com/ka449L6yiW_yGBmoG6uH-3gOlnnDA27VH5jEs0WmNdEbjKNtYMUhfn2HosFQe9-n8tilwYg3RfWRvWvZA6K75YrVqnnpbE9gtURbqhxKvyxDIBaaADPaPOZb_9PaDjyOV6_cZdBCcA=w2400)
 
 # About me 
 I am a Backend developer and Telecomunications Engineer. I create code with passion and enthusiasm. I like create solutions efficents and creatives with ethic and responsability. My favorite technologies are **Python** as a language and **Django** and **Flask** like frameworks for backend development and **HTML** and **CSS** for frontend develpment.
